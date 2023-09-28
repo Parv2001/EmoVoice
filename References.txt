@@ -1,0 +1,23 @@
+[1] Iqbal, A. and Barua, K. A real-time emotion recognition from speech using
+gradient boosting. In 2019 International Conference on Electrical, Computer and
+Communication Engineering (ECCE) (2019), IEEE, pp. 1–5
+[2] Jannat, R., Tynes, I., Lime, L. L., Adorno, J., and Canavan, S. Ubiquitous emotion
+recognition using audio and video data. In Proceedings of the 2018 ACM
+International Joint Conference and 2018 International Symposium on Pervasive and
+Ubiquitous Computing and Wearable Computers (2018), ACM, pp. 956–959.
+[3] LIVINGSTONE, S. R., AND RUSSO, F. A. : The Ryerson audio-visual database
+of emotional speech and song (RAVDESS): A dynamic, multimodal set of facial and
+vocal expressions in north american english. PloS one 13, 5 (2018), e0196391.
+[4] Logan, B., et al.: Mel frequency cepstral coefficients for music modeling. In
+ISMIR (2000), vol. 270, pp. 1–11.
+[5] Muda, L., Begam, M., and Elamvazuthi, I. : Voice recognition algorithms using
+Mel Frequency Cepstral Coefficient (MFCC) and Dynamic Time Warping (DTW)
+techniques. arXiv preprint arXiv:1003.4083 (2010).
+[6] Nair, V., and Hinton, G. E. : Rectified linear units improve restricted boltzmann
+machines. In Proceedings of the 27th international conference on machine learning
+(ICML-10) (2010), pp. 807–814
+[7] Platt, J. C., Cristianini, N. and Shawe-Taylor, J. : Large margin dags for multiclass
+classification. In Advances in Neural Information Processing Systems 12, S. A. Solla,
+T. K. Leen, and K. Muller, Eds. MIT Press, 2000, pp. 547–553
+[8]Toronto emotional speech set (TESS)
+(https://tspace.library.utoronto.ca/handle/1807/24487)
